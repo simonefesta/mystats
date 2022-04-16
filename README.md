@@ -1,1 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonefesta)](https://github.com/anuraghazra/github-readme-stats)
+
+Hey there! 🖖
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonefesta&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
