@@ -12,5 +12,5 @@ Hey there!🖖
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonefesta&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Profile views](https://gpvc.arturio.dev/[simonefesta])
-![](https://gitwar.herokuapp.com/badge?username=simonefesta&color=green)
+![Profile views](https://gpvc.arturio.dev/simonefesta)
+
