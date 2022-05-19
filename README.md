@@ -13,3 +13,4 @@ Hey there!🖖
 
 
 ![Profile views](https://gpvc.arturio.dev/[simonefesta])
+![](https://gitwar.herokuapp.com/badge?username=simonefesta&color=green)
