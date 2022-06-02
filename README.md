@@ -1,7 +1,5 @@
 
-Hey there!🖖
-
-
+###Hey there! It's Festinho here!🖖
 
 
 
@@ -11,6 +9,4 @@ Hey there!🖖
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonefesta&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Profile views Since 05/19/2022](https://gpvc.arturio.dev/simonefesta)
 
