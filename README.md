@@ -3,11 +3,16 @@
 
 
 <hr>
-<h1 align="center">Hi,I'm <a href="https://github.com/simonefesta">Festinho<a></h1>
+<h1 align="center">Hi,I'm <a href="https://github.com/simonefesta">Festinho 🖖<a></h1>
 
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=simonefesta&langs_count=5&theme=tokyonight)]()
+  
+  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonefesta&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
   <br>
 
@@ -20,26 +25,3 @@
   <br>
 
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hey there! It's Festinho here!🖖
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonefesta&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonefesta&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
