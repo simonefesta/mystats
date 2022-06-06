@@ -14,14 +14,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonefesta&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  <br>
 
   [![My Activity Graph ](https://activity-graph.herokuapp.com/graph?username=simonefesta&theme=react-dark)](https://github.com/simonefesta/github-readme-activity-graph)
   
   
-<br>
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-  
-  <br>
+
 
   
