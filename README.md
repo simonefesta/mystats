@@ -11,7 +11,7 @@
 
 
 
-  [![My Activity Graph ](https://activity-graph.herokuapp.com/graph?username=simonefesta&theme=react-dark)](https://github.com/simonefesta/github-readme-activity-graph)
+  [![My Activity Graph ](https://activity-graph.herokuapp.com/graph?username=simonefesta&theme=react-dark)]
   
   
 
