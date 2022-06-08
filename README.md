@@ -1,7 +1,3 @@
-### <h1>![](https://komarev.com/ghpvc/?username=simonefesta&color=blue&label=PROFILE+VIEWS)</h1>
-
-
-
 <hr>
 <h1 align="center">Hi,I'm <a href="https://github.com/simonefesta">Festinho 🖖<a></h1>
 
