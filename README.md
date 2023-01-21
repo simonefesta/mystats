@@ -3,11 +3,10 @@
 
 
 
-[![My GitHub Language Stats](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=simonefesta&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=simonefesta&langs_count=5&theme=tokyonight)]()
   
 
 
   
-
 
   
