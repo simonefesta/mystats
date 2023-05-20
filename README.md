@@ -38,6 +38,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/simone-festa-53755a274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simone-festa-53755a274" height="30" width="40" /></a>
 </p>
-
- ![https://github.com/Ileriayo/markdown-badges]
- ![https://rahuldkjain.github.io/gh-profile-readme-generator/]
+ 
+[](#https://github.com/Ileriayo/markdown-badges)
+[](#https://rahuldkjain.github.io/gh-profile-readme-generator/)
